@@ -29,7 +29,7 @@ end
 % Main script to load the image, resize it using different methods, and display the results
 function main()
     % Specify the file path
-    file_path = 'path/to/your/image.jpg'; % Replace with your image file path
+    file_path = 'image.jpg'; % Replace with your image file path
     
     % Load the image
     img = imread(file_path);

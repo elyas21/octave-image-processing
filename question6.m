@@ -58,7 +58,7 @@ end
 % Main script to load an image, rotate it, and display the result
 function main()
     % Specify the file path
-    file_path = 'path/to/your/image.jpg'; % Replace with your image file path
+    file_path = 'image.jpg'; % Replace with your image file path
     
     % Load the image
     img = imread(file_path);
